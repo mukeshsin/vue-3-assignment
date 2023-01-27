@@ -22,7 +22,7 @@ export default {
     height: 150px;
     background-color: #68ae64;
     border: none;
-    border-radius: 20px;
+    border-radius: 15px;
     align-items: center;
     font-size: 35px;
     color: white;
